@@ -4,8 +4,8 @@ Simple utility to get access tokens from Azure EntraId.
 
 ### How to use
 
-The program assumes that you have a directory `~/.entra` with a fire `credentials` 
-With the following structure:  
+The program assumes that you have a directory `~/.entra` with a file `credentials` 
+Credentials should have the following structure:  
 ```
 [myapp]
 tenantId=<azuread-tenant>
