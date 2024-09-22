@@ -1,6 +1,6 @@
 ## Entra
 
-Simple utility to get access toknes from Azure EntraId.  
+Simple utility to get access tokens from Azure EntraId.  
 
 ### How to use
 
